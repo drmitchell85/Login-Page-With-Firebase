@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="mapit_name">MapIt</string>
+    <string name="login_button">Log In</string>
+    <string name="signup_button_title">Sign up</string>
+    <string name="email">EMAIL</string>
+    <string name="email_hint">youremail@email.com</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="text_continue">Continue</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="profile_title">Profile</string>
+    <string name="login_forgot"><u>Forgot password? Click here</u></string>
+    <string name="resetactivity_email_title">Enter your email below</string>
+    <string name="resetactivity_sendemail">Send Email</string>
+</resources>
