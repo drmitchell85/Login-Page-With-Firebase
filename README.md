@@ -14,6 +14,6 @@ This basic introdutory app has four activities:
 There is also a profile activity as a placeholder for future information. Currently, users can log out of their account from this activity.
 
 # Acknowledgements
-This was created in part from Simplified Code's Firebase Android Tutorial. I strongly suggest checking out their YouTube page as it is highly infomrative and well put together. 
+This was created in part from Simplified Code's Firebase Android Tutorial. I strongly suggest checking out their YouTube page as it is highly informative and well put together. 
 
 https://youtu.be/0NFwF7L-YA8
